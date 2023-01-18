@@ -1,5 +1,4 @@
-# Ender 3 Max BTT SKR-E3 v3.0 TFT35
-## BigTreeTech-SKR-MINI-v3---Ender-Max-with-CR-BL-TOUCH-and-BTT-TFT35
+# Ender 3 Max with BigTreeTech SKR MINI E3 v3.0 and TFT35
 
 Firmware for BTT SKR-E3 v3.0 with TFT35 on Ender 3 Max
  
